@@ -1,0 +1,13 @@
+
+
+
+	Magic factor (MF) = len/2 + width/2	
+
+	      del(x)	   del(y)
+	a :  	0	    -2MF	trans
+	b :    +MF	    -MF
+	c :    +MF          +MF
+	d :  	0	    +2MF 	trans
+	e :    -MF          +MF	
+	f :    -MF	    -MF
+	g :     0            0		trans

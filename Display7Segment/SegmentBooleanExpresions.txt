@@ -1,0 +1,7 @@
+a- C + A + B'D'+ BD
+b- B' + C'D' + CD
+c- C' + D + B
+d- A + B'D' + B'C + CD' + BC'D
+e- B'D' + CD'
+f- A + C'D' + BC' + BD'
+g- A + B'C + CD' + BC'
